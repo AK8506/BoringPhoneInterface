@@ -74,7 +74,8 @@ class AppData {
             AppItem(name: "Tesla", urlScheme: "tesla://", fallbackURL: ""),
             AppItem(name: "Uber", urlScheme: "uber://", fallbackURL: ""),
             AppItem(name: "Transit", urlScheme: "transit://", fallbackURL: ""),
-            AppItem(name: "Sweatcoin", urlScheme: "sweatcoin://", fallbackURL: ""),
+            // not ideal here as well
+            AppItem(name: "Sweatcoin", urlScheme: "shortcuts://ruh-shortcut?name=openSweatAppMenu", fallbackURL: ""),
             AppItem(name: "MyColorado", urlScheme: "mycolorado://", fallbackURL: "https://mycolorado.state.co.us"),
         ])
     ]
