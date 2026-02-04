@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>Maps</string>
+		<string>Phone</string>
+		<string>Messages</string>
+		<string>Wallet</string>
+		<string>Mail</string>
+		<string>WhatsApp</string>
+		<string>Discord</string>
+		<string>Slack</string>
+		<string>Beeper</string>
+		<string>Google Chat</string>
+		<string>Weather</string>
+		<string>Calculator</string>
+		<string>Alarmy</string>
+		<string>Spotify</string>
+		<string>Brave</string>
+		<string>Files</string>
+		<string>Notion</string>
+		<string>Calendar</string>
+		<string>GitHub</string>
+		<string>ChatGPT</string>
+		<string>DeepSeek</string>
+		<string>Gemini</string>
+		<string>Google Home</string>
+		<string>Home</string>
+		<string>Alexa</string>
+		<string>Tesla</string>
+		<string>Uber</string>
+		<string>Transit</string>
+		<string>MyColorado</string>
+		<string>Sweatcoin</string>
+		<string>Sweat Wallet</string>
+		<string>Shortcuts</string>
+		<string>mobilephone</string>
+		<string>Weather</string>
+		<string>shoebox</string>
+		<string>cron</string>
+		<string>Home</string>
+		<string>calculate84</string>
+		<string>googleapp</string>
+	</array>
+	<key>CFBundleURLTypes</key>
+	<array/>
+</dict>
+</plist>
